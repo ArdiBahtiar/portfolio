@@ -1,0 +1,22 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #3cabeb;
+  color: #000000;
+}
+#about {
+  background-color: #a2d9ff;
+}
+#project {
+  background-color: #273036;
+  color: aliceblue;
+}
+.card {
+  background-color: #273036;
+  color: aliceblue;
+}
+#contact {
+  background-color: #ff5500;
+}
